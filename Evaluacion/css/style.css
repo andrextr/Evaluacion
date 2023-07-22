@@ -1,0 +1,79 @@
+*{
+    padding: 0%;
+    margin: 3%;
+}
+
+body{
+    margin: auto;
+    background-color: brown;
+}
+
+.container{
+    margin: auto;
+    padding: 5%;
+    width: 80%;
+    border: 3px solid grey;
+    border-radius: 20px;
+    background-color: rgb(227, 245, 245);
+}
+
+#name {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(197, 174, 174);
+    border: 3px solid grey;
+    border-radius: 20px;
+}
+
+#powerstats {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(197, 174, 174);
+    border: 3px solid grey;
+    border-radius: 20px;
+    width: 45%;
+    float: left;
+}
+
+#appearance {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(197, 174, 174);
+    border: 3px solid grey;
+    border-radius: 20px;
+    width: 40%;
+    float: right;
+}
+
+#biography {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(197, 174, 174);
+    border: 3px solid grey;
+    border-radius: 20px;
+    margin: auto;
+}
+
+#connections {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(197, 174, 174);
+    border: 3px solid grey;
+    border-radius: 20px;
+}
+
+#images{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(197, 174, 174);
+    border: 3px solid grey;
+    border-radius: 20px;
+}
